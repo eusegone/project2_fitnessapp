@@ -38,6 +38,7 @@ gem 'carrierwave', '0.9.0'
 gem 'bootstrap-datepicker-rails'
 gem 'simple_form'
 gem 'mailboxer'
+gem 'rails_12factor', group: :production
 
 gem 'twitter-bootstrap-rails'
 
